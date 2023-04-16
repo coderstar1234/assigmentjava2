@@ -1,4 +1,4 @@
-Multiplication Table Program
+<h1 align="center"> Multiplication Table Program</h1>
 This is a simple Python program that generates a multiplication table for a number entered by the user. The program uses a loop to iterate over the numbers 1 to 10 (inclusive) and multiplies each number by the user's input number to generate the multiplication table.
 
 Getting Started
