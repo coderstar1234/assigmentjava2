@@ -24,6 +24,7 @@ Replace yourusername with your GitHub username.
 <h4 align="center" >Copy code📝</h4>
 
 <p align="center" >python multiplication_table.py📝</p>
+
 - You'll be prompted to enter a number to generate a multiplication table for. 
 - Enter a number and press Enter, and the program will generate the multiplication table and display it in the terminal.
 <hr>
@@ -32,17 +33,17 @@ Replace yourusername with your GitHub username.
 - Here's an example of using the program to generate a multiplication table for the number 7:
 <h4 align="center" >Copy code📝</h4>
 <p align="center" >$ python multiplication_table.py</p>
-Enter a number to create a multiplication table for: 7
-7 x 1 = 7
-7 x 2 = 14
-7 x 3 = 21
-7 x 4 = 28
-7 x 5 = 35
-7 x 6 = 42
-7 x 7 = 49
-7 x 8 = 56
-7 x 9 = 63
-7 x 10 = 70
+Enter a number to create a multiplication table for: 7<br>
+7 x 1 = 7<br>
+7 x 2 = 14<br>
+7 x 3 = 21<br>
+7 x 4 = 28<br>
+7 x 5 = 35<br>
+7 x 6 = 42<br>
+7 x 7 = 49<br>
+7 x 8 = 56<br>
+7 x 9 = 63<br>
+7 x 10 = 70<br>
 <hr>
 <h1 align="center"> Contributing👫:-</h1>
 
