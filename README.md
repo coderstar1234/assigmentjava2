@@ -10,8 +10,9 @@
 - Once you have Python installed, you can download or clone this repository to your computer. 
 - To download the repository as a zip file, click the green "Code" button on the GitHub page and select "Download ZIP". To clone the repository using Git, run the following command in your terminal:
 <hr>
-bash
-Copy code
+<h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4>
+
 git clone https://github.com/yourusername/multiplication-table.git
 Replace yourusername with your GitHub username.
 <hr>
