@@ -47,7 +47,7 @@ Enter a number to create a multiplication table for: 7
 - If you'd like to contribute to this project, you can open a pull request on GitHub. 
 - Please make sure your code follows the PEP 8 style guide and includes tests to ensure that it works as expected.
 <hr>
-<h1 align="center"> License</h1>
+<h1 align="center"> License📙:-</h1>
 
 - This program is licensed under the MIT License.
 - Feel free to use, modify, and distribute it as you wish.
