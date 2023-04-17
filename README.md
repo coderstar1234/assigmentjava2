@@ -25,10 +25,10 @@ Replace yourusername with your GitHub username.
 python multiplication_table.py
 You'll be prompted to enter a number to generate a multiplication table for. Enter a number and press Enter, and the program will generate the multiplication table and display it in the terminal.
 <hr>
-<h1 align="center"> Example</h1>
+<h1 align="center"> Example⚙️:-</h1>
 
 Here's an example of using the program to generate a multiplication table for the number 7:
-Copy code
+<h4 align="center" >Copy code📝</h4>
 $ python multiplication_table.py
 Enter a number to create a multiplication table for: 7
 7 x 1 = 7
