@@ -22,12 +22,14 @@ Replace yourusername with your GitHub username.
 - To use the program, open a terminal or command prompt and navigate to the directory where you downloaded or cloned the repository. Then run the following command:
 
 <h4 align="center" >Copy code📝</h4>
-python multiplication_table.py
-You'll be prompted to enter a number to generate a multiplication table for. Enter a number and press Enter, and the program will generate the multiplication table and display it in the terminal.
+
+<p align="center" >python multiplication_table.py📝</p>
+- You'll be prompted to enter a number to generate a multiplication table for. 
+- Enter a number and press Enter, and the program will generate the multiplication table and display it in the terminal.
 <hr>
 <h1 align="center"> Example⚙️:-</h1>
 
-Here's an example of using the program to generate a multiplication table for the number 7:
+- Here's an example of using the program to generate a multiplication table for the number 7:
 <h4 align="center" >Copy code📝</h4>
 $ python multiplication_table.py
 Enter a number to create a multiplication table for: 7
