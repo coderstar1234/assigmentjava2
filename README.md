@@ -42,7 +42,7 @@ Enter a number to create a multiplication table for: 7
 7 x 9 = 63
 7 x 10 = 70
 <hr>
-<h1 align="center"> Contributing</h1>
+<h1 align="center"> Contributing👫:-</h1>
 
 - If you'd like to contribute to this project, you can open a pull request on GitHub. 
 - Please make sure your code follows the PEP 8 style guide and includes tests to ensure that it works as expected.
