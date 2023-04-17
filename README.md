@@ -8,7 +8,8 @@
 - To use this program, you'll need to have Python installed on your computer.
 - If you don't have Python installed, you can download it from the official Python website.
 - Once you have Python installed, you can download or clone this repository to your computer. 
-- To download the repository as a zip file, click the green "Code" button on the GitHub page and select "Download ZIP". To clone the repository using Git, run the following command in your terminal:
+- To download the repository as a zip file, click the green "Code" button on the GitHub page and select "Download ZIP". 
+- To clone the repository using Git, run the following command in your terminal:
 <hr>
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
