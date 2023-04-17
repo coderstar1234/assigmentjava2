@@ -31,7 +31,7 @@ Replace yourusername with your GitHub username.
 
 - Here's an example of using the program to generate a multiplication table for the number 7:
 <h4 align="center" >Copy code📝</h4>
-$ python multiplication_table.py
+<p align="center" >$ python multiplication_table.py</p>
 Enter a number to create a multiplication table for: 7
 7 x 1 = 7
 7 x 2 = 14
