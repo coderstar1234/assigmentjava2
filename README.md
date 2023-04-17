@@ -3,7 +3,7 @@
 - This is a simple Python program that generates a multiplication table for a number entered by the user.
 - The program uses a loop to iterate over the numbers 1 to 10 (inclusive) and multiplies each number by the user's input number to generate the multiplication table.
 <hr>
-<h1 align="center"> Getting Started</h1>
+<h1 align="center"> Getting Started🔧:-</h1>
 
 - To use this program, you'll need to have Python installed on your computer.
 - If you don't have Python installed, you can download it from the official Python website.
