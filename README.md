@@ -17,7 +17,7 @@
 git clone https://github.com/yourusername/multiplication-table.git
 Replace yourusername with your GitHub username.
 <hr>
-<h1 align="center"> Usage</h1>
+<h1 align="center"> Usage🎭:-</h1>
 
 - To use the program, open a terminal or command prompt and navigate to the directory where you downloaded or cloned the repository. Then run the following command:
 
