@@ -25,7 +25,7 @@
 <img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
 
 git clone https://github.com/yourusername/multiplication-table.git
-Replace yourusername with your GitHub username.
+- Replace yourusername with your GitHub username.
 <hr>
 <h1 align="center"> Usage🎭:-</h1>
 
