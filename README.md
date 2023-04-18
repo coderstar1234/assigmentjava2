@@ -13,6 +13,16 @@
 <hr>
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
+<h1 align="center"> Installation:</h1>
+<h3 align=" center" >To run this project locally:📺 </h3>
+<div align="center" >
+<img height="200" wedith="200" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
+
+ <h2 align="center"> follow these steps:</h2>
+
+<h3 align="center"> Clone the repository from GitHub.:</h3>
+<div align="center" >
+<img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
 
 git clone https://github.com/yourusername/multiplication-table.git
 Replace yourusername with your GitHub username.
